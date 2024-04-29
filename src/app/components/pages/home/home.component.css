@@ -24,6 +24,20 @@
     font-weight: bold;
 }
 
+.content-one-info .info-btn{
+    background-color: #EB6440;
+    color: #F5F5F5;
+}
+
+.content-one-info .info-brand-title{
+    color: #8DECB4;
+    font-weight: bold;
+}
+
+.content-one-info .info-description{
+    color: #F5F5F5;
+}
+
 .home-section-two{
     background-color: #F3F4ED;
 }
@@ -35,6 +49,15 @@
 .home-section-three .content-img-info{
     max-width: 100%;
     height: auto;
+}
+
+.home-section-three .items{
+    
+}
+
+.home-section-three .item-brand{
+    font-size: 5em;
+    font-weight: bold;
 }
 
 .content-carrosel-img{
