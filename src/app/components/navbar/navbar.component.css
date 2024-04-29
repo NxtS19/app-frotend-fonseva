@@ -1,0 +1,20 @@
+.home-login{
+    margin-left: 2rem;
+}
+
+.content-login{
+    padding: 0 5px;
+    border-radius: 10px;
+}
+
+.content-login-info{
+    margin: 10px;
+    width: auto;
+    text-decoration: none;
+    color: #000;
+}
+
+.content-login-btn{
+    margin: 10px;
+    color: aliceblue;
+}

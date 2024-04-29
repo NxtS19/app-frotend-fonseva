@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+    --main-primary-color: #1A3C40;
+    --main-btn-primary-color:#116A7B;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: #F1F6F9;
+}
+.main-btn-primary{
+    background-color: var(--main-btn-primary-color);
+    color: #F5F5F5;
+}

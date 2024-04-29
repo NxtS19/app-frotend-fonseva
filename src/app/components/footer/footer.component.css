@@ -1,0 +1,16 @@
+
+.footer-section-one{
+    background-color: #E4F2F0;
+    min-height: 10vh;
+}
+
+.footer-section-one .content-section-one a{
+    text-decoration: none;
+    padding: 1em 0 1em 0;
+    color: #000;
+}
+
+.footer-section-two{
+    background-color: #1B262C;
+    color: #F5F5F5;
+}

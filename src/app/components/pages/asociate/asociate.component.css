@@ -1,0 +1,12 @@
+
+.asociate-section{
+    padding: 5% 0;
+}
+.asociate-section-one{
+    background-color: #F3EEEA;
+}
+.content-form-contact{
+    padding: 5%;
+    border: 2px solid;
+    border-color: var(--main-primary-color);
+}
